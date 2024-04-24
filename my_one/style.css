@@ -1,0 +1,52 @@
+#imgdata{
+    width: 1000px;
+    margin-left: 0px;
+    border-radius: "30px";
+}
+
+.jumbotron {
+    padding: 0rem 7rem;
+    display: flex;
+    background-color:#dfc49d;
+    color:white;
+}
+
+.jumbotron .lead{
+    text-decoration: double;
+    text-shadow:#3b85f5;
+}
+
+
+
+.carousel-caption p{
+    font-synthesis-small-caps: 20px;
+}
+
+.footer ul{
+    list-style-type: none;
+}
+
+.footer{
+    margin-top: 200px;
+    height: 500px;
+    background-color:#dfc49d;
+}
+
+.navbar{
+     background-color:#dfc49d;
+    
+}
+
+.navbar-brand{
+    color: white;
+}
+
+.nav-link{
+    color: white;
+}
+
+.reg{
+    color: white;
+    background-color:#dfc49d;
+
+}
